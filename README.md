@@ -1,0 +1,2 @@
+# nodeseek-editor
+使用JavaScript写的仿Nodeseek评论框，可用于自行开发或者在线编辑时需要编辑器快速引用。
